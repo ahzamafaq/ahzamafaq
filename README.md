@@ -8,7 +8,7 @@ Building at the intersection of NLP, computer vision, and responsible AI. Aiming
 
 - Honorable Mention, Hi!ckathon 6 (Hi!Paris x HEC & IP Paris), selected to represent France at Hi!Paris x IPAI Foundation Hackathon 2026, Germany
 - Charpak Scholar, French government merit scholarship for top international students
-- Patent holder for a LoRa-based IoT system for precision agricultural monitoring
+- Patent filed in India for real-time multi-modal ASL recognition (CNN + MediaPipe)
 - Published research on LoRa-based IoT systems for agricultural monitoring
 
 ## Currently
