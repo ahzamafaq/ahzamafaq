@@ -2,12 +2,13 @@
 
 M1 Artificial Intelligence, Universite Paris-Saclay | Charpak Scholar
 
-Building at the intersection of NLP, computer vision, and responsible AI. Goal: research and engineering roles where models ship to production and actually matter.
+Building at the intersection of NLP, computer vision, and responsible AI. Aiming for a PhD in AI with a focus on responsible and human-centric machine learning systems.
 
 ## Highlights
 
 - Honorable Mention, Hi!ckathon 6 (Hi!Paris x HEC & IP Paris), selected to represent France at Hi!Paris x IPAI Foundation Hackathon 2026, Germany
 - Charpak Scholar, French government merit scholarship for top international students
+- Patent holder for a LoRa-based IoT system for precision agricultural monitoring
 - Published research on LoRa-based IoT systems for agricultural monitoring
 
 ## Currently
