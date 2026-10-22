@@ -1,6 +1,6 @@
 # Ahzam Afaq
 
-M1 Artificial Intelligence, Universite Paris-Saclay | Charpak Scholar
+M2 Data Science, École Polytechnique | M1 Artificial Intelligence, Université Paris Saclay | Charpak Scholar
 
 Building at the intersection of NLP, computer vision, and responsible AI. Aiming for a PhD in AI with a focus on responsible and human-centric machine learning systems.
 
@@ -13,8 +13,8 @@ Building at the intersection of NLP, computer vision, and responsible AI. Aiming
 
 ## Currently
 
-M1 AI @ Universite Paris-Saclay
+M2 DS @ École Polytechnique 
 
 ## Contact
 
-afaq.ahzamm@gmail.com | ahzam.afaq@universite-paris-saclay.fr | [ahzam.me](https://ahzam.me)
+afaq.ahzamm@gmail.com | ahzam.afaq@polytechnique.edu | [ahzam.me](https://ahzam.me)
