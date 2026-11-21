@@ -1,4 +1,4 @@
-# Ahzam Afaq
+# Ahzam Afaq | Paris, France
 
 M2 Data Science, École Polytechnique | M1 Artificial Intelligence, Université Paris Saclay | Charpak Scholar
 
